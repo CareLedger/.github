@@ -1,5 +1,5 @@
 # README.md
-![Alt text]()
+![Alt text](https://github.com/CareLedger/.github/blob/main/Screenshot%202023-05-19%20at%2018.43.03.jpeg)
 # CareLedger
 
   
@@ -26,7 +26,7 @@ Data privacy and compliance are paramount in healthcare. CareLedger on the Celo 
 ## Deployed App
 
 
-Public URL: 
+Public URL: https://majestic-blancmange-b9201e.netlify.app/
 
 
 Contract is deployed on Celo Alfajores Testnet Network 
